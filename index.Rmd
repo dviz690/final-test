@@ -3,7 +3,7 @@ title: "My Dashbord at DACSS"
 bibliography: testVisual.bib
 output: 
   flexdashboard::flex_dashboard:
-    orientation: columns
+    orientation: column
 ---
 
 ```{r setup, include=FALSE}
